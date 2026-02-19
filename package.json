@@ -1,0 +1,15 @@
+{
+  "name": "dog-facts-api-v1",
+  "version": "1.0.0",
+  "description": "Dog Facts API v1 Replica built with Node.js and Express.js",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alex Torres",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
